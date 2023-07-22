@@ -1,0 +1,4 @@
+roadmap.md
+nestsrv/trsc-server/uploads/*
+!nestsrv/trsc-server/uploads/default-avatar.jpeg
+pgdb/data
