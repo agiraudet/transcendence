@@ -15,7 +15,6 @@ Transcendence is a web application that allows users to play Pong with other pla
   - [Chat](#chat)
   - [Game](#game)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Getting Started
 
