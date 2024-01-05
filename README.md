@@ -19,9 +19,9 @@ Transcendence is a web application that allows users to play Pong with other pla
 
 ## Visuals
 
-![Login page](https://github.com/agiraudet/boidsServ/blob/main/visuals/login.png)
-![Profile page](https://github.com/agiraudet/boidsServ/blob/main/visuals/profile.png)
-![Chat page](https://github.com/agiraudet/boidsServ/blob/main/visuals/chat.png)
+![Login page](https://github.com/agiraudet/transcendence/blob/main/visuals/login.png)
+![Profile page](https://github.com/agiraudet/transcendence/blob/main/visuals/profile.png)
+![Chat page](https://github.com/agiraudet/transcendence/blob/main/visuals/chat.png)
 
 ## Getting Started
 
